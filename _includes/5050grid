@@ -1,0 +1,12 @@
+{% for 5050grid in page.5050grid %}
+<div class="container">
+    <div class="row">
+      <div class="col">
+       {{ 5050grid.content1 }}
+      </div>
+      <div class="col">
+        {{ 5050grid.content2 }}
+      </div>
+    </div>
+  </div>
+{% endfor %}
