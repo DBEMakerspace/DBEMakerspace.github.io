@@ -170,7 +170,7 @@ compress_html:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude: 
+ exclude: 
 #   - assets
 #   - .sass-cache/images/
 #   - .jekyll-cache/
@@ -178,7 +178,7 @@ compress_html:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules/
-#   - vendor/bundle/
+  - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
