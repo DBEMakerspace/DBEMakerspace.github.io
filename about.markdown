@@ -14,7 +14,7 @@ nav_order: 2
 ---
 # About Us
 
-{{% include 5050grid.html %}}
+{% include 5050grid.html %}
 
 ## Contact Us
 
