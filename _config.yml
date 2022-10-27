@@ -22,18 +22,19 @@ title: DBE Makerspace
 email: dbe-technicalsupport@curtin.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   Curtin DBE Makerspace is a place for all creatives in design and architecture. We have 3D Pinterings, laser scanners and VR equipment.
-baseurl: "DBEMakerspace.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
 # Build settings
-# theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
 plugins:
   - jekyll-feed
 #to remove when updated version of Just the Docs releases
   - jekyll-remote-theme
+  - jekyll-seo-tag
+
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/Curtin University logo.svg"
@@ -170,18 +171,28 @@ compress_html:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude: 
-#   - assets
-#   - .sass-cache/images/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+ # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+ # specific to the theme website:
+   - bin/
+   - lib/
+   - "*.gemspec"
+   - "*.gem"
+   - LICENSE.txt
+   - package.json
+   - package-lock.json
+   - Rakefile
+   - README.md
 
 keep_files:
 - assets
