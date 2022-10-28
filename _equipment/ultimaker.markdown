@@ -3,11 +3,16 @@ layout: page
 title: Ultimaker 3D Printer
 permalink: /ultimaker/
 parent: Equipment
+
 ---
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> 
+
 # Ultimaker 3D Printers
 
+{% include halfgrid.html %}
 
-![Oculus Headset with Controllers](/assets/images/equipment/ultimaker_printer.png)  
+![Ultimaker 3D Printer](/assets/images/equipment/ultimaker_printer.jpg)  
 
 (FDM) Fused Deposition Modelling printing technology. For printing 3D models into physical objects. This is available for all students of DBE to print 3D models. Models needing to be printed need to be sent to the technicians.
 

@@ -4,21 +4,25 @@ title: Oculus Quest 2
 permalink: /quest-2/
 parent: Equipment
 ---
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> 
 
 # Oculus Quest 2 - Virtual Headset  
 
-{: .important }
-> Important
-> Before using the Oculus Quest 2 you will be required to read the [read the following safety warnings.](https://scontent.fcbr1-1.fna.fbcdn.net/v/t39.2365-6/31427030_1495419650568346_585719606576939008_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=489e6e&_nc_ohc=pzFuyXKBtiUAX8lVfr7&_nc_ht=scontent.fcbr1-1.fna&oh=00_AT-vMC-fcrBJyAzSmWKZEgDZXdDfgHiet7N0WK6a_PfLgg&oe=63563446)
+{% include halfgrid.html %}
 
-
-![Oculus Headset with Controllers](/assets/images/equipment/oculus_headset.webp)  
+![Oculus Headset with Controllers](/assets/images/equipment/oculus_headset.jpg)  
 
 | Quantity | Risk Assessment |
 |:-|:-|
 | 10 | None | 
 
+
 The Oculus Quest 2 is a standalone VR headset that allows you to view and interact with virtual experiences with or without a computer. Little physical setup is required.
+
+{: .important }
+> Important
+> Before using the Oculus Quest 2 you will be required to read the [read the following safety warnings.](https://scontent.fcbr1-1.fna.fbcdn.net/v/t39.2365-6/31427030_1495419650568346_585719606576939008_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=489e6e&_nc_ohc=pzFuyXKBtiUAX8lVfr7&_nc_ht=scontent.fcbr1-1.fna&oh=00_AT-vMC-fcrBJyAzSmWKZEgDZXdDfgHiet7N0WK6a_PfLgg&oe=63563446)
 
 [Make Booking](https://siso.curtin.edu.au/sodbe//){: .btn .btn-purple }
 
@@ -33,7 +37,6 @@ The Oculus Quest 2 is a standalone VR headset that allows you to view and intera
 | USB-C Cable | 1 | Connects headset to PC.  |
 | Glasses spacer | 1 | To allow users with glasses to wear the headset. |
 | USB-C to USB 3.0 | 1 | Not all computers have a USB-C plug so an adapter is provided. You may experience some latency by using the adapter. |
-
 
 ---
 ## Documentation

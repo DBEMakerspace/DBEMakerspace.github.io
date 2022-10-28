@@ -7,5 +7,5 @@ has_children: true
 ---
 # Equipment
 
-dfdf
+Below is a full list of available equipment that the DBE Makerspace. We house a range of resources from Fabrication, Electronics to Multimedia. See below:
 

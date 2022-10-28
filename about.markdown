@@ -4,17 +4,17 @@ title: About Us
 permalink: /about-us/
 nav_order: 2
 
-5050grid: 
+halfgrid: 
     - content1: |
-        The technical operations teams across both DAP and B418 support students and staff with technical resources, areas, and equipment, including technical supervision and instruction, operation, and maintenance. We ensure that staff and students receive safety inductions, instruction, and guidance; ensure that technical resources and equipment complement the school’s pedagogical outcomes; develop and maintain standard operating procedures for equipment, and operate and maintain specialized equipment and areas.
-
-        The Building 418 technical operations team supports staff and students throughout the building in all areas of design from ideation to exhibition in the building’s specialized areas including the Makerspace, Collaboration Hub, SLS and exhibition spaces.
-    
-    content2: <img href="assets/images/makerspace_default_img.jpg" alt="DBE Makerspace">
+        The DBE Makerspace is a creative learning space for students across Design and Built Environment located within B418. The tech team support students and staff with technical resources, areas, and equipment, including technical supervision and instruction, operation, and maintenance. We ensure everyone receives safety inductions, instruction, and guidance
+      content2: <img src="/assets/images/makerspace_default_img.jpg" alt="DBE Makerspace">
 ---
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> 
+
 # About Us
 
-{% include 5050grid.html %}
+{% include halfgrid.html %}
 
 ## Contact Us
 
