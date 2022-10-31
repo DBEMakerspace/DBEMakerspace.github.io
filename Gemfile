@@ -16,7 +16,7 @@ gem "just-the-docs", "0.4.0.rc3"
 
 # MUST UNCOMMENT FOR SITE TO WORK
 # ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-gem "github-pages", group: :jekyll_plugins
+ gem "github-pages", group: :jekyll_plugins
 
 
 # If you have any plugins, put them here!
