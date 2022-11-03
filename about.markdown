@@ -25,3 +25,4 @@ halfgrid:
 | Bookings (Collaboration Hub) | [Kyle Critchett](k.critchett@curtin.edu.au) | 418 | 9266 7351 | 
 | Printing (Collaboration Hub) | [Debbi Burnett](d.burnett@curtin.edu.au) | 418 | 9266 7667 | 
 | Exhibitions | [Richelle Doney](r.doney@curtin.edu.au)  | 418 | 9266 7119 | 
+

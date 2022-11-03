@@ -1,0 +1,22 @@
+---
+layout: page
+title:  LIMEN 2.0
+parent: Exhibitions
+child_nav_order: desc
+---
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://getbootstrap.com/docs/5.2/assets/css/docs.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+
+# ‘At the Fence’ Exhibition
+{: .mb-3}
+
+![LIMEN Poster](/assets/images/exhibitions/LIMEN 2.0/LIMEN Poster.png)
+
+## What is LIMEN 2.0?
+Limen 2.0 – ‘At the fence’ recreates few charged moments from the institutionalisation at 3 mission sites – Mogumber/Moore River, Carrolup/Marribank and Wandering mission. We cross the fence to enter into a shared space to engage with the Survivors, to hear their story at the place they spent their years of childhood feeling lost, isolated, traumatised and stolen.
+
+Our experience of Limen – ‘At the fence’ will encourage empathy and provides an alternative view of the Stolen Generation experience that has been distorted, filtered and transformed through a colonial lens. ‘At the fence’ holds a hope that Indigenous and non-Indigenous people of Australia will hold hands and cross over the fence.
+
+## Virtual Tour
+<iframe width='100%' height='900' src='https://my.matterport.com/show/?m=qYiGs6P7u28' frameborder='0' allowfullscreen allow='xr-spatial-tracking'></iframe>

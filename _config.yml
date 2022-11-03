@@ -199,4 +199,6 @@ keep_files:
 
 include:
 - _equipment
+- _posts
+- _exhibitions
 
