@@ -12,15 +12,15 @@ Due to the large number of students within DBE, it is important that all student
 
 [Book an Induction](https://siso.curtin.edu.au/sodbe//){: .btn .btn-primary }
 
-## Supervision
+## 1. Supervision
 Before using any equipment or in an emergency, please signal to one of the technicians to assist you and supervise. Do not use any of the equipment without a technician’s approval.
 <!-- ![](/assets/images/powertools-example.jpg) -->
 
 
-## Appropriate Footwear
+## 2. Appropriate Footwear
 To use equipment and working within the B418 Makerspace you are required to wear enclosed shoes. If you do **not** wear appropriate footwear you will be **denied** access to the facilities and to the equipment.
 
-##  Protective Gear
+## 3. Protective Gear
 
 When in the makerspace, it is required that you wear safety glasses and, when in the laser cutting room that you wear ear muffs to protect yourself.
 

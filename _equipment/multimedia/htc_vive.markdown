@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Oculus Quest 2
-permalink: /quest-2/
+title: VIVE Pro 2
+permalink: /vive-pro-2/
 parent: Multimedia
 grand_parent: Equipment
 ---
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> 
 
-# Oculus Quest 2 - Virtual Headset  
+# HTC VIVE Pro 2 - Virtual Headset
 ---
 <details open markdown="block">
   <summary>
@@ -20,10 +20,10 @@ grand_parent: Equipment
 </details>
 ---
 ## General Information
-The Oculus Quest 2 is a standalone VR headset that allows you to view and interact with virtual experiences with or without a computer. Little physical setup is required.
+The HTC Vive is a virtual reality headset capable of creating immersive experiences with high fidelity and audio.
 <br><br>
 
-![Oculus Headset with Controllers](/assets/images/equipment/oculus_headset.jpg)  
+![Oculus Headset with Controllers](/assets/images/equipment/htc_headset.jpg)  
 
 <br>
 
@@ -40,11 +40,12 @@ The Oculus Quest 2 is a standalone VR headset that allows you to view and intera
 | Equipment        | Quantity | Notes                                                                                                                |
 |:-----------------|:---------|:---------------------------------------------------------------------------------------------------------------------|
 | Headset          | 1        | Headset must be cleaned after use.                                                                                   | 
-| Controllers      | 2        | Each controller comes with betteries.                                                               | 
-| Case             | 1        | For storing all equipment.                                                                                           |
-| USB-C Cable      | 1        | Connects headset to PC.                                                                                              |
+| Controllers      | 2        | Each controller comes with their own charging cables.                                                                | 
+| Case             | 1        | For storing all equipment (excluding tripods).                                                                                           |
+| Vive Link Box      | 1        | Connects headset to PC.                                                                                               |
 | Glasses spacer   | 1        | To allow users with glasses to wear the headset.                                                                     |
-| USB-C to USB 3.0 | 1        | Not all computers have a USB-C plug so an adapter is provided. You may experience some latency by using the adapter. |
+| Base Stations | 2        | Base stations are to be mounted on tripods and angled above users. Please consult setup guide for more information. |
+| Tripods | 2        | For suspending base stations |
 
 ---
 ## Documentation
@@ -52,13 +53,13 @@ The Oculus Quest 2 is a standalone VR headset that allows you to view and intera
 {: .important-title }
 > Important
 > 
-> If you are connecting the Oculus headsets to the B418 lab computers, you must first connect the headset to the computer, turn on the headset and then open the Oculus app on the PC.
+> The HTC VIVE Pro 2 is for **PC-based projects only** if you would like a VR experience not tethered to a PC, please use the [Oculus Quest 2.](/quest-2/)
 
 
-[PC Setup Guide](https://store.facebook.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-link/connect-link-with-quest-2/){: .btn .btn-primary } [Oculus Support](https://support.oculus.com/){: .btn .btn-primary }  [Oculus YouTube](https://www.youtube.com/user/oculusvr){: .btn .btn-primary } [Health and Safety Guide](/assets/images/equipment/Health and Safety Guide.png){: .btn .btn-primary }
+[Vive User Guide](https://developer.vive.com/documents/720/Vive_User_Guide.pdf){: .btn .btn-primary } [Cleaning Guide](https://www.vive.com/au/support/cleaning-guide/howto/overview.html){: .btn .btn-primary }  [Getting Started](https://www.vive.com/au/support/vive-pro2/category_howto/started.html){: .btn .btn-primary } [Health and Safety Guide](/assets/images/equipment/Health and Safety Guide.png){: .btn .btn-primary }
 <br>
 
-<br>
-<script type="text/javascript" async src="https://play.vidyard.com/embed/v4.js"></script><img style="width: 100%; margin: auto; display: block;" class="vidyard-player-embed" src="https://play.vidyard.com/o9ZBPmqQwT3d61QmsM3TmN.jpg" data-uuid="o9ZBPmqQwT3d61QmsM3TmN" data-v="4" data-type="inline" />
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rv6nVPPDmEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

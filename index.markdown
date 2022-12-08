@@ -15,7 +15,7 @@ card:
     content: For booking equipment and booking an induction, click here.
 
   - title: Learn
-    link: https://siso.curtin.edu.au/sodbe/
+    link: /equipment/
     image: /assets/images/idea.svg
     content: Tutorials and instructions how to use equipment, click here
 
@@ -94,7 +94,24 @@ accordion:
 ---
 <!-- Latest compiled and minified CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<link href='/assets/css/main.css' rel='stylesheet' />
+<script src='/assets/js/main.js'></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+      // no plugin config required!
+    });
+    let calendar = new Calendar(calendarEl, {
+      plugins: [ googleCalendarPlugin ],
+      googleCalendarApiKey: 'AIzaSyD8v_E4AlI_MDvSkrCYsaVyEhMEDnt-mwo',
+      events: {
+       googleCalendarId: 'https://calendar.google.com/calendar/embed?src=280706j%40curtin.edu.au&ctz=Australia%2FPerth'
+      }
+    });
+    calendar.render();
+  });
+</script> 
 
 # DBE Makerspace
 
@@ -104,16 +121,21 @@ Welcome to B418 Makerspace, your one stop for all information about the 418:114 
 
 {% include cards.html %}
 
-# Calendar
-Want to know what's happening at the Makerspace? Find out below:
+<!-- <h2>Calendar</h2>
+<p>Want to know what's happening at the Makerspace? Find out below:
+  <div id='calendar'></div>
+</p> -->
 
-## TO BE ADDED
+<!-- <iframe src="https://calendar.google.com/calendar/embed?src=280706j%40curtin.edu.au&ctz=Australia%2FPerth" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
-# FAQ
+
+## FAQ
 Find some of our most common questions for the DBE Makerspace here.
 
 {% include accordion.html %}
 
-# Contact Us
+## Contact Us
 Want to know what's happening at the Makerspace? Find out below
 {% include form.html %}
+
+

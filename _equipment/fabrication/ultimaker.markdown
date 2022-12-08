@@ -2,7 +2,8 @@
 layout: page
 title: Ultimaker 3D Printer
 permalink: /ultimaker/
-parent: Equipment
+parent: Fabrication
+grand_parent: Equipment
 
 card:
   - title: Ultimaker S2
