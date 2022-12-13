@@ -121,7 +121,12 @@ Welcome to B418 Makerspace, your one stop for all information about the 418:114 
 
 {% include cards.html %}
 
+<!-- <h2>Calendar</h2>
+<p>Want to know what's happening at the Makerspace? Find out below:
+  <div id='calendar'></div>
+</p> -->
 
+<!-- <iframe src="https://calendar.google.com/calendar/embed?src=280706j%40curtin.edu.au&ctz=Australia%2FPerth" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
 
 ## FAQ
