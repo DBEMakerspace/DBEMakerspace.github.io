@@ -196,9 +196,11 @@ exclude:
 
 keep_files:
 - assets
+- static
 
 include:
 - _equipment
 - _posts
 - _exhibitions
+
 
